@@ -68,9 +68,9 @@ in creating efficient and scalable solutions and staying current with industry b
 
 <div align="center"> 
 <a href="https://satyamdubey6367.github.io" target="_blank"><img  align="center"  src="https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=portfolio" alt="portfolio"></a>
- <a href="mailto:Satyam19999@gmail.com" target="_blank"><img  align="center"  src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=email" alt="email"></a>
-<a href="https://www.linkedin.com/in/Satyam-%F0%9F%87%AE%F0%9F%87%B3-690190155/" target="_blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
- <a href="https://api.whatsapp.com/send?phone=8463891744" target="_blank"><img  align="center"  src="https://img.shields.io/badge/WhatsApp-2fe664?style=for-the-badge&logo=whatsapp" alt="whatsapp"></a>
+ <a href="mailto:Satyamdubey7241@gmail.com" target="_blank"><img  align="center"  src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=email" alt="email"></a>
+<a href="https://www.linkedin.com/in/satyam-dubey-b2a056233/" target="_blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
+ <a href="https://api.whatsapp.com/send?phone=6261664832" target="_blank"><img  align="center"  src="https://img.shields.io/badge/WhatsApp-2fe664?style=for-the-badge&logo=whatsapp" alt="whatsapp"></a>
  </div>
 
 <!---
