@@ -56,8 +56,7 @@ in creating efficient and scalable solutions and staying current with industry b
 <h3 align="center">Programming languages :rocket:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamdubey6367&show_icons=true&locale=en&theme=dracula&count_private=true&langs_count=8" alt="satyamdubey6367" /></p>
  <br> </br>
-<h3 align="center">GitHub Streak 🔥</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamdubey6367&theme=dracula&count_private=true&show_icons=true" alt="satyamdubey6367" /></p>
+
 
 
 <br></br>
