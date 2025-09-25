@@ -4,7 +4,7 @@
  <img align="center" src="https://img.shields.io/badge/<Full Stack Web Developer/> -571845?style=for-the-badge&logo=developer?logoWidth=90"  alt="developer" />
  </div>
 
-<h4 align="center">MERN Stack developer with over 2 year of professional experience.Skilled in designing and implementing robust web applications using a variety of technologies.Proficient
+<h4 align="center">MERN Stack developer with over 2 years of professional experience.Skilled in designing and implementing robust web applications using a variety of technologies.Proficient
 in creating efficient and scalable solutions and staying current with industry best practices. Committed to delivering high-quality software that meets business objectives.
 </h4>
  <br> </br>
@@ -31,9 +31,6 @@ in creating efficient and scalable solutions and staying current with industry b
   </div>
   <div align="center">
 <img align="center" src="https://img.shields.io/badge/Cypress-64c89e?style=for-the-badge&logo=cypress"  alt="cypress" />
-<img align="center" src="https://img.shields.io/badge/Chakra UI-2abfb3?style=for-the-badge&logo=chakra ui"  alt="chakra ui" />
-<img align="center" src="https://img.shields.io/badge/Material UI-0079f2?style=for-the-badge&logo=material ui"  alt="material ui" />
-<img align="center" src="https://img.shields.io/badge/Node JS-63985e?style=for-the-badge&logo=node js"  alt="Node Js" />
 <img align="center" src="https://img.shields.io/badge/Express JS-ead41c?style=for-the-badge&logo=expressjs"  alt="express js" />
 <img align="center" src="https://img.shields.io/badge/Mongo DB-e8eaed?style=for-the-badge&logo=mongodb"  alt="mongo db" />
 <img align="center" src="https://img.shields.io/badge/Rest API-2962ff?style=for-the-badge&logo=api"  alt="Rest API" />
@@ -47,7 +44,6 @@ in creating efficient and scalable solutions and staying current with industry b
 <div align="center"> 
 <img  align="center"  src="https://img.shields.io/badge/Git & GitHub-f34c27?style=for-the-badge&logo=github" alt="git">
 <img align="center" src = "https://img.shields.io/badge/Netlify-479fbe?style=for-the-badge&logo=netlify"  alt="netlify">
- <img  align="center"  src="https://img.shields.io/badge/VS Code-23aaf2?style=for-the-badge&logo=visual studio" alt="vscode">
 <img align="center" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"  alt="vercel">
     <img align="center" src="https://img.shields.io/badge/NPM-c13534?style=for-the-badge&logo=npm"  alt="npm" />
 
